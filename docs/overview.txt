@@ -1,0 +1,20 @@
+[Classification - Problem Statement > Features > Training > Testing]
+
+Example:
+Naive Bayes - Can be used to solve sentiment classification problems (i.e. Spam or Ham, Male or Female, Happy or Unhappy etc.)
+
+Algo:
+PosHappy = sum of frequency of "Happy" in positive comments / sum of frequency of "Happy" in entire corpus
+NegHappy = 1-PosHappy
+
+Support Vector Machines - Can be used to solve Ad Detection
+Decision Trees
+K-Nearest Neighbors
+Random Forests
+Logistic Regression
+
+[Regression]
+
+[Clustering]
+
+[Recommendations]
